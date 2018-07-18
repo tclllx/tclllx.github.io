@@ -1,0 +1,8 @@
+Origin: Tclllx's repo
+Label: Tclllx's repo
+Suite: stable
+Version: 1.0
+Codename: Tclllxrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Tclllx's Cydia Repository
